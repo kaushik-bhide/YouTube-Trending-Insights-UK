@@ -61,3 +61,15 @@ Findings align with Ofcom’s media consumption reports and illustrate the influ
 Delivered a Jupyter Notebook showcasing data cleaning, visualisation, and insight storytelling.
 
 Demonstrated the ability to convert unstructured data into actionable insights through analysis and visual presentation.
+
+🔗 Dataset
+
+Kaggle – Trending YouTube Video Statistics
+
+🧩 Next Steps
+
+Expand analysis to multiple countries for comparative insights.
+
+Build an interactive dashboard using Streamlit or Plotly Dash.
+
+Apply basic NLP to analyse comment sentiment and title keywords.
